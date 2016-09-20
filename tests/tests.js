@@ -2,6 +2,7 @@
 // chad test 1
 // chad test 3
 // chad test 5  ....
+// chad test 6  
 describe("travelMap tests", function () {
   
   beforeAll(function () {
